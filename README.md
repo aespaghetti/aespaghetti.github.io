@@ -1,8 +1,53 @@
-# Welcome to Aespaghetti GitHub Page
+# Blackpink Member Profiles
+![image](https://user-images.githubusercontent.com/99862210/159168067-5d6c22a3-8568-4766-937c-5b5aa9cb0f5f.png)
 
-You can use the [editor on GitHub](https://github.com/aespaghetti/aespaghetti.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**BLACKPINK (블랙핑크)** consists of 4 members: Jisoo, Jennie, Rosé, and Lisa. The band debuted on August 8th, 2016 under **YG Entertainment.** On October 23, 2018, BLACKPINK has officially signed with the U.S. label Interscope Records.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Blackpink Social Media
+Instagram: [blackpinkofficial](https://www.instagram.com/blackpinkofficial/?hl=en) 
+
+Facebook:[BLACKPINKOFFICIAL](https://www.facebook.com/BLACKPINKOFFICIAL/)   
+
+Twitter:[ygofficialblink](https://twitter.com/ygofficialblink) 
+
+Vlive: [Black Pink Channel](https://www.vlive.tv/channel/F001E5) 
+
+Youtube:[Blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)   
+
+Tiktok:[bp_tiktok](https://www.tiktok.com/@bp_tiktok?lang=en)       
+
+Weverse:[BLACKPINK](https://weverse.io/blackpink/artist)                         
+
+## Jisoo
+![image](https://user-images.githubusercontent.com/99862210/159168122-deaeed8a-dabd-43e4-b573-5edf8bc0dced.png)
+
+Stage Name: Jisoo (지수)
+
+Birth Name: Kim Jisoo (김지수)
+
+Nicknames: Chi Choo, Jichu
+
+Position: Lead Vocalist, Visual
+
+Birthday: January 3, 1995
+
+Zodiac Sign: Capricorn
+
+Birthplace: Gunpo, Gyeonggi-do, South Korea
+
+Height: 162 cm (5 ft 3¾ in)
+
+Weight: 44 kg (97 lbs)
+
+Blood Type: A
+
+MBTI Type: ESTP
+
+Instagram: [sooyaaa__](https://www.instagram.com/sooyaaa__/)
+
+
+
 
 ### Markdown
 
