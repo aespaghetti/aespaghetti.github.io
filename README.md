@@ -137,3 +137,7 @@ Instagram: [lalalalisa_m](https://www.instagram.com/lalalalisa_m/)
 
 Youtube: [Lilifilm](https://www.youtube.com/channel/UC35HKvKYPkri4Grd5KXl3wQ/featured)
                                                   
+## Blackpink All songs Playlist
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vhJmgx9ocbo5qYwpjuVNd?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
